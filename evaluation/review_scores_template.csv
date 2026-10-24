@@ -1,0 +1,1 @@
+case_id,condition,run_id,model_label,execution_date,prompt_version,rubric_version,output_length,issue_id,gold_issue_match,tp_fp,source_quote_valid,evidence_score_0_3,actionability_score_0_3,uncertainty_score_0_3,reviewer_id,notes

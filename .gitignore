@@ -1,0 +1,12 @@
+node_modules/
+.pnpm-store/
+.playwright-browsers/
+.next/
+out/
+test-results/
+playwright-report/
+.vitest/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
