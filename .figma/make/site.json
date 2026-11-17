@@ -1,0 +1,10 @@
+{
+  "description": "Transforms specifications into a functional website with optimized user interface and experience design tailored to your requirements.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
